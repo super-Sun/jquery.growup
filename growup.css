@@ -1,0 +1,77 @@
+.growup-box {
+	 		display: inline-block;
+		    padding: 0;
+		    height: 43px;
+		    line-height: 43px;
+		    vertical-align: middle;
+	 	}
+	 	.growup-box .num-bg {
+	 		background-color: #5ac3ff;
+	 		border-radius: 5px;
+	 		margin-left: 1px;
+	 		margin-right: 1px;
+	 		
+	 	}
+	 	.growup-box i {
+	 		display: inline-block;
+		    width: 26px;
+		    height: 35px;
+		    background: url(./images/number.png) no-repeat center;
+		    background-position: 0 0;
+		    text-indent: -999em;
+	 	}
+	 	.growup-box.orange i {
+	 		display: inline-block;
+		    width: 19px;
+		    height: 30px;
+		    background: url(./images/num_orange.png) no-repeat center;
+		    background-position: 0 0;
+		    text-indent: -999em;
+	 	}
+	 	.growup-box.orange.big i {
+	 		display: inline-block;
+		    width: 19px;
+		    height: 30px;
+		    background: url(./images/num_orange_big.png) no-repeat center;
+		    background-position: 0 0;
+		    text-indent: -999em;
+	 	}
+	 	.growup-box.blue i {
+	 		display: inline-block;
+		    width: 19px;
+		    height: 30px;
+		    background: url(./images/num_blue.png) no-repeat center;
+		    background-position: 0 0;
+		    text-indent: -999em;
+	 	}
+	 	.growup-box.blue.big i {
+	 		display: inline-block;
+		    width: 19px;
+		    height: 30px;
+		    background: url(./images/num_blue_big.png) no-repeat center;
+		    background-position: 0 0;
+		    text-indent: -999em;
+	 	}
+	 	.growup-box em {
+	 		display: inline-block;
+		    height: 43px;
+		    font-size: 48px;
+		    color: #fff;
+		    text-align: center;
+		    line-height: 43px;
+		    font-family: 'Arial';
+	 	}
+ 		.growup-div .growup-text-before {
+			display: table-cell;
+			font-size: 18px;
+			vertical-align: middle;
+			color: #f4d290;
+		}
+	 	.growup-div .growup-text-after {
+	 		display: table-cell;
+		    font-size: 18px;
+		    vertical-align: middle;
+		    color: #f4d290;
+		    font-weight: bold;
+		    margin-left: 3px;
+	 	}
